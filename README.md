@@ -96,4 +96,4 @@
 ---
 
 ## 📁 GitHub Repository
-- [https://github.com/MinJoon1994/Noir_table.git](https://github.com/MinJoon1994/Noir_table.git)
+- https://github.com/aosdb1257/Noir_table.git
