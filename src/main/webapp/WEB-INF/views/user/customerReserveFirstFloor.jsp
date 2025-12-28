@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>좌석 선택 테스트</title>
+<title>좌석 선택 테스트2</title>
 <style>
  body {
   font-family: 'Noto Sans KR', sans-serif;
