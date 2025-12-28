@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>결제정보</title>
+<title>결제정보 테스트 fetch</title>
 <style>
  body {
   font-family: 'Noto Sans KR', sans-serif;
